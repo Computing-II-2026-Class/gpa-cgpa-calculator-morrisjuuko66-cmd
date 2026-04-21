@@ -20,6 +20,7 @@ int main() {
     // Read all 16 scores
     for (int i = 0; i < 16; i++) {
         if (scanf("%d", &scores[i]) != 1) return 0;
+    }
 
         // Invalid Input Rule
         if (scores[i] < 0 || scores[i] > 100) {

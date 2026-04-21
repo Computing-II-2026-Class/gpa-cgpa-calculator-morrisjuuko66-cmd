@@ -1,6 +1,6 @@
 /*
-Name: JUUKO MORRIS
-Registration Number: 25/U/BIE/01375/PE
+*Name: JUUKO MORRIS
+*Registration Number: 25/U/BIE/01375/PE
 */
 
 #include <stdio.h>
